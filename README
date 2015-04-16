@@ -1,0 +1,2 @@
+Configuration file for docker registry (https://github.com/docker/docker-registry)
+to use gitdriver backend driver (https://github.com/pyotr777/docker-registry-driver-git).
